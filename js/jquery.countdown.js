@@ -1,8 +1,6 @@
 /*
  * jquery-countdown plugin - v0.2
  *
- * Copyright (c) 2009 Martin Conte Mac Donell <Reflejo@gmail.com>
- * Copyright (c) 2011 Peter Farmer <pfarmer@gmail.com>
  *
  * Dual licensed under the MIT and GPL licenses.
  * http://docs.jquery.com/License
